@@ -15,7 +15,7 @@ LyricLens is a Python-based application that uses Genius API and web scraping te
 1. Clone the repository.
 
 ```
-git clone https://github.com/your_username/LyricLens.git
+git clone https://github.com/matt-norris/LyricLens.git
 ```
 
 2. Install required Python packages.
